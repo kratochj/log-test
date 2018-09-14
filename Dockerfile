@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.8
 
 LABEL org.label-schema.schema-version = "1.0"
 LABEL org.label-schema.description = "Simple image that periodicaly prints random log messages"
