@@ -1,6 +1,6 @@
 # Test log runner
 
-* `2`, `latest` ([version1/Dockerfile](https://github.com/kratochj/log-test/blob/master/Dockerfile))
+* `2`, `latest` ([Dockerfile](https://github.com/kratochj/log-test/blob/master/Dockerfile))
 * `1` ([version1/Dockerfile](https://github.com/kratochj/log-test/blob/version1/Dockerfile))
 
 
